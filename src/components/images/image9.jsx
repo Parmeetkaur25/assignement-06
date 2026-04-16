@@ -1,0 +1,17 @@
+function Image9() {
+  return (
+    <div>
+        <a href="https://boxbot6.github.io/simple-website-template-with-banner-v3/images/card-5-march-1a-cigarette-cards-john-player-and-sons-a-nature-calendar.jpg">
+            <img
+              src="https://boxbot6.github.io/simple-website-template-with-banner-v3/thumbnails/card-5-march-1a-cigarette-cards-john-player-and-sons-a-nature-calendar-thumb.jpg"
+              width="100%"
+            />
+            <br />
+            <br />
+        March No. 1 (front)
+      </a>
+    </div>
+  )
+}
+
+export default Image9
